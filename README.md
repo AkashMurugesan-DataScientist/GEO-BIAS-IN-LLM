@@ -28,6 +28,24 @@ Large Language Models used:
 
 The results from the different data sources were compared to identify patterns, differences and possible geographical bias in AI-generated responses.
 
+Project Visualisations
+
+Air Quality Trends
+Rolling 30-day PM2.5 trends across the four London locations:[d1]
+
+WHO guideline exceedance rates across the study locations:[d2]
+
+LLM Sentiment Analysis
+Distribution of sentiment in LLM responses across the four locations:[28]
+
+Text Analysis
+Example of the descriptors identified for London Bexley:[d5]
+
+AQI, Public Perception and LLM Comparison
+Correlation between air quality, public responses and LLM sentiment:[d6]
+
+Comparison of PM2.5 levels, complaint rates and positive LLM responses:[d7]
+
 Repository Contents
 
 Geo-Bias in LLM.pdf - Complete MSc Data Science dissertation.
