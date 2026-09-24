@@ -1,0 +1,505 @@
+Year,Month,neighbourhood,avg_compound,sentiment,review_count
+2013,11,London Bexley,0.8643,positive,1.0
+2013,11,London Bloomsbury,,,
+2013,11,London Marylebone Road,,,
+2013,11,London North Kensington,,,
+2014,6,London Bexley,0.8653500000000001,positive,2.0
+2014,6,London Bloomsbury,,,
+2014,6,London Marylebone Road,,,
+2014,6,London North Kensington,,,
+2014,7,London Bexley,0.9522,positive,1.0
+2014,7,London Bloomsbury,,,
+2014,7,London Marylebone Road,,,
+2014,7,London North Kensington,,,
+2014,8,London Bexley,0.7096,positive,1.0
+2014,8,London Bloomsbury,,,
+2014,8,London Marylebone Road,,,
+2014,8,London North Kensington,,,
+2014,9,London Bexley,0.9630000000000001,positive,3.0
+2014,9,London Bloomsbury,,,
+2014,9,London Marylebone Road,,,
+2014,9,London North Kensington,,,
+2014,11,London Bexley,0.9039,positive,1.0
+2014,11,London Bloomsbury,,,
+2014,11,London Marylebone Road,,,
+2014,11,London North Kensington,,,
+2015,1,London Bexley,0.943,positive,1.0
+2015,1,London Bloomsbury,,,
+2015,1,London Marylebone Road,,,
+2015,1,London North Kensington,,,
+2015,4,London Bexley,0.9485,positive,1.0
+2015,4,London Bloomsbury,,,
+2015,4,London Marylebone Road,,,
+2015,4,London North Kensington,,,
+2015,5,London Bexley,0.9133,positive,1.0
+2015,5,London Bloomsbury,,,
+2015,5,London Marylebone Road,,,
+2015,5,London North Kensington,,,
+2015,7,London Bexley,0.1891,negative,2.0
+2015,7,London Bloomsbury,,,
+2015,7,London Marylebone Road,,,
+2015,7,London North Kensington,,,
+2015,8,London Bexley,0.9774,positive,1.0
+2015,8,London Bloomsbury,,,
+2015,8,London Marylebone Road,,,
+2015,8,London North Kensington,,,
+2015,10,London Bexley,0.9129,positive,2.0
+2015,10,London Bloomsbury,,,
+2015,10,London Marylebone Road,,,
+2015,10,London North Kensington,,,
+2015,12,London Bexley,0.9765,positive,1.0
+2015,12,London Bloomsbury,,,
+2015,12,London Marylebone Road,,,
+2015,12,London North Kensington,,,
+2016,1,London Bexley,0.9439,positive,1.0
+2016,1,London Bloomsbury,,,
+2016,1,London Marylebone Road,,,
+2016,1,London North Kensington,,,
+2016,2,London Bexley,0.7901,positive,1.0
+2016,2,London Bloomsbury,,,
+2016,2,London Marylebone Road,,,
+2016,2,London North Kensington,,,
+2016,3,London Bexley,0.3479,positive,2.0
+2016,3,London Bloomsbury,,,
+2016,3,London Marylebone Road,,,
+2016,3,London North Kensington,,,
+2016,4,London Bexley,0.9592,positive,1.0
+2016,4,London Bloomsbury,,,
+2016,4,London Marylebone Road,,,
+2016,4,London North Kensington,,,
+2016,6,London Bexley,0.7891,positive,1.0
+2016,6,London Bloomsbury,,,
+2016,6,London Marylebone Road,,,
+2016,6,London North Kensington,,,
+2016,7,London Bexley,0.9391666666666666,positive,3.0
+2016,7,London Bloomsbury,,,
+2016,7,London Marylebone Road,,,
+2016,7,London North Kensington,,,
+2016,8,London Bexley,0.8767666666666667,positive,3.0
+2016,8,London Bloomsbury,,,
+2016,8,London Marylebone Road,,,
+2016,8,London North Kensington,,,
+2016,9,London Bexley,0.8059499999999999,positive,4.0
+2016,9,London Bloomsbury,,,
+2016,9,London Marylebone Road,,,
+2016,9,London North Kensington,,,
+2016,10,London Bexley,0.7144499999999999,positive,6.0
+2016,10,London Bloomsbury,,,
+2016,10,London Marylebone Road,,,
+2016,10,London North Kensington,,,
+2016,11,London Bexley,0.8865000000000001,positive,2.0
+2016,11,London Bloomsbury,,,
+2016,11,London Marylebone Road,,,
+2016,11,London North Kensington,,,
+2016,12,London Bexley,0.8218000000000001,positive,2.0
+2016,12,London Bloomsbury,,,
+2016,12,London Marylebone Road,,,
+2016,12,London North Kensington,,,
+2017,1,London Bexley,0.85646,positive,10.0
+2017,1,London Bloomsbury,,,
+2017,1,London Marylebone Road,,,
+2017,1,London North Kensington,,,
+2017,2,London Bexley,0.8735375,positive,8.0
+2017,2,London Bloomsbury,,,
+2017,2,London Marylebone Road,,,
+2017,2,London North Kensington,,,
+2017,3,London Bexley,0.8482125,positive,8.0
+2017,3,London Bloomsbury,,,
+2017,3,London Marylebone Road,,,
+2017,3,London North Kensington,,,
+2017,4,London Bexley,0.5521,positive,13.0
+2017,4,London Bloomsbury,,,
+2017,4,London Marylebone Road,,,
+2017,4,London North Kensington,,,
+2017,5,London Bexley,0.7387666666666667,positive,9.0
+2017,5,London Bloomsbury,,,
+2017,5,London Marylebone Road,,,
+2017,5,London North Kensington,,,
+2017,6,London Bexley,0.7642000000000001,positive,6.0
+2017,6,London Bloomsbury,,,
+2017,6,London Marylebone Road,,,
+2017,6,London North Kensington,,,
+2017,7,London Bexley,0.8222363636363635,positive,22.0
+2017,7,London Bloomsbury,,,
+2017,7,London Marylebone Road,,,
+2017,7,London North Kensington,,,
+2017,8,London Bexley,0.632290909090909,positive,11.0
+2017,8,London Bloomsbury,,,
+2017,8,London Marylebone Road,,,
+2017,8,London North Kensington,,,
+2017,9,London Bexley,0.7663714285714286,positive,7.0
+2017,9,London Bloomsbury,,,
+2017,9,London Marylebone Road,,,
+2017,9,London North Kensington,,,
+2017,10,London Bexley,0.683075,positive,8.0
+2017,10,London Bloomsbury,,,
+2017,10,London Marylebone Road,,,
+2017,10,London North Kensington,,,
+2017,11,London Bexley,0.8559454545454546,positive,11.0
+2017,11,London Bloomsbury,,,
+2017,11,London Marylebone Road,,,
+2017,11,London North Kensington,,,
+2017,12,London Bexley,0.75374,positive,10.0
+2017,12,London Bloomsbury,,,
+2017,12,London Marylebone Road,,,
+2017,12,London North Kensington,,,
+2018,1,London Bexley,0.36669,neutral,10.0
+2018,1,London Bloomsbury,,,
+2018,1,London Marylebone Road,,,
+2018,1,London North Kensington,,,
+2018,2,London Bexley,0.7375222222222222,positive,9.0
+2018,2,London Bloomsbury,,,
+2018,2,London Marylebone Road,,,
+2018,2,London North Kensington,,,
+2018,3,London Bexley,0.6602538461538461,positive,13.0
+2018,3,London Bloomsbury,,,
+2018,3,London Marylebone Road,,,
+2018,3,London North Kensington,,,
+2018,4,London Bexley,0.7054533333333333,positive,15.0
+2018,4,London Bloomsbury,,,
+2018,4,London Marylebone Road,,,
+2018,4,London North Kensington,,,
+2018,5,London Bexley,0.8806727272727273,positive,11.0
+2018,5,London Bloomsbury,,,
+2018,5,London Marylebone Road,,,
+2018,5,London North Kensington,,,
+2018,6,London Bexley,0.736576923076923,positive,26.0
+2018,6,London Bloomsbury,,,
+2018,6,London Marylebone Road,,,
+2018,6,London North Kensington,,,
+2018,7,London Bexley,0.7450724137931034,positive,29.0
+2018,7,London Bloomsbury,,,
+2018,7,London Marylebone Road,,,
+2018,7,London North Kensington,,,
+2018,8,London Bexley,0.6730352941176471,positive,17.0
+2018,8,London Bloomsbury,,,
+2018,8,London Marylebone Road,,,
+2018,8,London North Kensington,,,
+2018,9,London Bexley,0.8061153846153846,positive,26.0
+2018,9,London Bloomsbury,,,
+2018,9,London Marylebone Road,,,
+2018,9,London North Kensington,,,
+2018,10,London Bexley,0.851032,positive,25.0
+2018,10,London Bloomsbury,,,
+2018,10,London Marylebone Road,,,
+2018,10,London North Kensington,,,
+2018,11,London Bexley,0.7200277777777777,positive,18.0
+2018,11,London Bloomsbury,,,
+2018,11,London Marylebone Road,,,
+2018,11,London North Kensington,,,
+2018,12,London Bexley,0.7068260869565218,positive,23.0
+2018,12,London Bloomsbury,,,
+2018,12,London Marylebone Road,,,
+2018,12,London North Kensington,,,
+2019,1,London Bexley,0.81263125,positive,16.0
+2019,1,London Bloomsbury,,,
+2019,1,London Marylebone Road,,,
+2019,1,London North Kensington,,,
+2019,2,London Bexley,0.579,positive,11.0
+2019,2,London Bloomsbury,,,
+2019,2,London Marylebone Road,,,
+2019,2,London North Kensington,,,
+2019,3,London Bexley,0.8515538461538461,positive,13.0
+2019,3,London Bloomsbury,,,
+2019,3,London Marylebone Road,,,
+2019,3,London North Kensington,,,
+2019,4,London Bexley,0.6961192307692308,positive,26.0
+2019,4,London Bloomsbury,,,
+2019,4,London Marylebone Road,,,
+2019,4,London North Kensington,,,
+2019,5,London Bexley,0.7760333333333332,positive,15.0
+2019,5,London Bloomsbury,,,
+2019,5,London Marylebone Road,,,
+2019,5,London North Kensington,,,
+2019,6,London Bexley,0.7265785714285714,positive,28.0
+2019,6,London Bloomsbury,,,
+2019,6,London Marylebone Road,,,
+2019,6,London North Kensington,,,
+2019,7,London Bexley,0.8382648648648648,positive,37.0
+2019,7,London Bloomsbury,,,
+2019,7,London Marylebone Road,,,
+2019,7,London North Kensington,,,
+2019,8,London Bexley,0.784168,positive,25.0
+2019,8,London Bloomsbury,,,
+2019,8,London Marylebone Road,,,
+2019,8,London North Kensington,,,
+2019,9,London Bexley,0.7575208333333333,positive,24.0
+2019,9,London Bloomsbury,,,
+2019,9,London Marylebone Road,,,
+2019,9,London North Kensington,,,
+2019,10,London Bexley,0.7427368421052631,positive,19.0
+2019,10,London Bloomsbury,,,
+2019,10,London Marylebone Road,,,
+2019,10,London North Kensington,,,
+2019,11,London Bexley,0.7217304347826088,positive,23.0
+2019,11,London Bloomsbury,,,
+2019,11,London Marylebone Road,,,
+2019,11,London North Kensington,,,
+2019,12,London Bexley,0.6688611111111111,positive,18.0
+2019,12,London Bloomsbury,,,
+2019,12,London Marylebone Road,,,
+2019,12,London North Kensington,,,
+2020,1,London Bexley,0.723764705882353,positive,17.0
+2020,1,London Bloomsbury,,,
+2020,1,London Marylebone Road,,,
+2020,1,London North Kensington,,,
+2020,2,London Bexley,0.7524666666666666,positive,21.0
+2020,2,London Bloomsbury,,,
+2020,2,London Marylebone Road,,,
+2020,2,London North Kensington,,,
+2020,3,London Bexley,0.759825,positive,16.0
+2020,3,London Bloomsbury,,,
+2020,3,London Marylebone Road,,,
+2020,3,London North Kensington,,,
+2020,4,London Bexley,0.7054428571428571,positive,7.0
+2020,4,London Bloomsbury,,,
+2020,4,London Marylebone Road,,,
+2020,4,London North Kensington,,,
+2020,5,London Bexley,0.90265,positive,6.0
+2020,5,London Bloomsbury,,,
+2020,5,London Marylebone Road,,,
+2020,5,London North Kensington,,,
+2020,6,London Bexley,0.6517799999999999,positive,5.0
+2020,6,London Bloomsbury,,,
+2020,6,London Marylebone Road,,,
+2020,6,London North Kensington,,,
+2020,7,London Bexley,0.7958285714285714,positive,7.0
+2020,7,London Bloomsbury,,,
+2020,7,London Marylebone Road,,,
+2020,7,London North Kensington,,,
+2020,8,London Bexley,0.8536181818181819,positive,11.0
+2020,8,London Bloomsbury,,,
+2020,8,London Marylebone Road,,,
+2020,8,London North Kensington,,,
+2020,9,London Bexley,0.7431764705882353,positive,17.0
+2020,9,London Bloomsbury,,,
+2020,9,London Marylebone Road,,,
+2020,9,London North Kensington,,,
+2020,10,London Bexley,0.8369928571428572,positive,14.0
+2020,10,London Bloomsbury,,,
+2020,10,London Marylebone Road,,,
+2020,10,London North Kensington,,,
+2020,11,London Bexley,0.8127800000000001,positive,5.0
+2020,11,London Bloomsbury,,,
+2020,11,London Marylebone Road,,,
+2020,11,London North Kensington,,,
+2020,12,London Bexley,0.83515,positive,12.0
+2020,12,London Bloomsbury,,,
+2020,12,London Marylebone Road,,,
+2020,12,London North Kensington,,,
+2021,1,London Bexley,0.765825,positive,4.0
+2021,1,London Bloomsbury,,,
+2021,1,London Marylebone Road,,,
+2021,1,London North Kensington,,,
+2021,2,London Bexley,0.71148,positive,5.0
+2021,2,London Bloomsbury,,,
+2021,2,London Marylebone Road,,,
+2021,2,London North Kensington,,,
+2021,3,London Bexley,0.68113,positive,10.0
+2021,3,London Bloomsbury,,,
+2021,3,London Marylebone Road,,,
+2021,3,London North Kensington,,,
+2021,4,London Bexley,0.7096899999999999,positive,10.0
+2021,4,London Bloomsbury,,,
+2021,4,London Marylebone Road,,,
+2021,4,London North Kensington,,,
+2021,5,London Bexley,0.8303461538461538,positive,13.0
+2021,5,London Bloomsbury,,,
+2021,5,London Marylebone Road,,,
+2021,5,London North Kensington,,,
+2021,6,London Bexley,0.76702,positive,10.0
+2021,6,London Bloomsbury,,,
+2021,6,London Marylebone Road,,,
+2021,6,London North Kensington,,,
+2021,7,London Bexley,0.8505652173913043,positive,23.0
+2021,7,London Bloomsbury,,,
+2021,7,London Marylebone Road,,,
+2021,7,London North Kensington,,,
+2021,8,London Bexley,0.8342040000000001,positive,25.0
+2021,8,London Bloomsbury,,,
+2021,8,London Marylebone Road,,,
+2021,8,London North Kensington,,,
+2021,9,London Bexley,0.7603230769230769,positive,39.0
+2021,9,London Bloomsbury,,,
+2021,9,London Marylebone Road,,,
+2021,9,London North Kensington,,,
+2021,10,London Bexley,0.756577358490566,positive,53.0
+2021,10,London Bloomsbury,,,
+2021,10,London Marylebone Road,,,
+2021,10,London North Kensington,,,
+2021,11,London Bexley,0.7194436363636364,positive,55.0
+2021,11,London Bloomsbury,,,
+2021,11,London Marylebone Road,,,
+2021,11,London North Kensington,,,
+2021,12,London Bexley,0.73821875,positive,32.0
+2021,12,London Bloomsbury,,,
+2021,12,London Marylebone Road,,,
+2021,12,London North Kensington,,,
+2022,1,London Bexley,0.6766000000000001,positive,29.0
+2022,1,London Bloomsbury,,,
+2022,1,London Marylebone Road,,,
+2022,1,London North Kensington,,,
+2022,2,London Bexley,0.7754111111111112,positive,45.0
+2022,2,London Bloomsbury,,,
+2022,2,London Marylebone Road,,,
+2022,2,London North Kensington,,,
+2022,3,London Bexley,0.6914606060606061,positive,66.0
+2022,3,London Bloomsbury,,,
+2022,3,London Marylebone Road,,,
+2022,3,London North Kensington,,,
+2022,4,London Bexley,0.7027488888888889,positive,90.0
+2022,4,London Bloomsbury,,,
+2022,4,London Marylebone Road,,,
+2022,4,London North Kensington,,,
+2022,5,London Bexley,0.7788141509433962,positive,106.0
+2022,5,London Bloomsbury,,,
+2022,5,London Marylebone Road,,,
+2022,5,London North Kensington,,,
+2022,6,London Bexley,0.7110942446043166,positive,139.0
+2022,6,London Bloomsbury,,,
+2022,6,London Marylebone Road,,,
+2022,6,London North Kensington,,,
+2022,7,London Bexley,0.7173095890410959,positive,146.0
+2022,7,London Bloomsbury,,,
+2022,7,London Marylebone Road,,,
+2022,7,London North Kensington,,,
+2022,8,London Bexley,0.633459842519685,positive,127.0
+2022,8,London Bloomsbury,,,
+2022,8,London Marylebone Road,,,
+2022,8,London North Kensington,,,
+2022,9,London Bexley,0.7012496,positive,125.0
+2022,9,London Bloomsbury,,,
+2022,9,London Marylebone Road,,,
+2022,9,London North Kensington,,,
+2022,10,London Bexley,0.615390625,positive,128.0
+2022,10,London Bloomsbury,,,
+2022,10,London Marylebone Road,,,
+2022,10,London North Kensington,,,
+2022,11,London Bexley,0.5385489795918367,positive,98.0
+2022,11,London Bloomsbury,,,
+2022,11,London Marylebone Road,,,
+2022,11,London North Kensington,,,
+2022,12,London Bexley,0.6582341880341881,positive,117.0
+2022,12,London Bloomsbury,,,
+2022,12,London Marylebone Road,,,
+2022,12,London North Kensington,,,
+2023,1,London Bexley,0.694708256880734,positive,109.0
+2023,1,London Bloomsbury,,,
+2023,1,London Marylebone Road,,,
+2023,1,London North Kensington,,,
+2023,2,London Bexley,0.6525847826086956,positive,92.0
+2023,2,London Bloomsbury,,,
+2023,2,London Marylebone Road,,,
+2023,2,London North Kensington,,,
+2023,3,London Bexley,0.6621055555555556,positive,126.0
+2023,3,London Bloomsbury,,,
+2023,3,London Marylebone Road,,,
+2023,3,London North Kensington,,,
+2023,4,London Bexley,0.6239393103448275,positive,145.0
+2023,4,London Bloomsbury,,,
+2023,4,London Marylebone Road,,,
+2023,4,London North Kensington,,,
+2023,5,London Bexley,0.6222659863945579,positive,147.0
+2023,5,London Bloomsbury,,,
+2023,5,London Marylebone Road,,,
+2023,5,London North Kensington,,,
+2023,6,London Bexley,0.6896716666666667,positive,180.0
+2023,6,London Bloomsbury,,,
+2023,6,London Marylebone Road,,,
+2023,6,London North Kensington,,,
+2023,7,London Bexley,0.681765470852018,positive,223.0
+2023,7,London Bloomsbury,,,
+2023,7,London Marylebone Road,,,
+2023,7,London North Kensington,,,
+2023,8,London Bexley,0.6554666666666666,positive,189.0
+2023,8,London Bloomsbury,,,
+2023,8,London Marylebone Road,,,
+2023,8,London North Kensington,,,
+2023,9,London Bexley,0.7071134502923976,positive,171.0
+2023,9,London Bloomsbury,,,
+2023,9,London Marylebone Road,,,
+2023,9,London North Kensington,,,
+2023,10,London Bexley,0.7291015463917525,positive,194.0
+2023,10,London Bloomsbury,,,
+2023,10,London Marylebone Road,,,
+2023,10,London North Kensington,,,
+2023,11,London Bexley,0.7187987730061349,positive,163.0
+2023,11,London Bloomsbury,,,
+2023,11,London Marylebone Road,,,
+2023,11,London North Kensington,,,
+2023,12,London Bexley,0.6492353293413174,positive,167.0
+2023,12,London Bloomsbury,,,
+2023,12,London Marylebone Road,,,
+2023,12,London North Kensington,,,
+2024,1,London Bexley,0.5637282051282051,positive,117.0
+2024,1,London Bloomsbury,,,
+2024,1,London Marylebone Road,,,
+2024,1,London North Kensington,,,
+2024,2,London Bexley,0.7074984496124032,positive,129.0
+2024,2,London Bloomsbury,,,
+2024,2,London Marylebone Road,,,
+2024,2,London North Kensington,,,
+2024,3,London Bexley,0.6679993939393939,positive,165.0
+2024,3,London Bloomsbury,,,
+2024,3,London Marylebone Road,,,
+2024,3,London North Kensington,,,
+2024,4,London Bexley,0.6266525423728814,positive,177.0
+2024,4,London Bloomsbury,,,
+2024,4,London Marylebone Road,,,
+2024,4,London North Kensington,,,
+2024,5,London Bexley,0.6461195454545454,positive,220.0
+2024,5,London Bloomsbury,,,
+2024,5,London Marylebone Road,,,
+2024,5,London North Kensington,,,
+2024,6,London Bexley,0.6200876923076923,positive,260.0
+2024,6,London Bloomsbury,,,
+2024,6,London Marylebone Road,,,
+2024,6,London North Kensington,,,
+2024,7,London Bexley,0.6224188191881919,positive,271.0
+2024,7,London Bloomsbury,,,
+2024,7,London Marylebone Road,,,
+2024,7,London North Kensington,,,
+2024,8,London Bexley,0.6248763052208836,positive,249.0
+2024,8,London Bloomsbury,,,
+2024,8,London Marylebone Road,,,
+2024,8,London North Kensington,,,
+2024,9,London Bexley,0.7133387387387388,positive,222.0
+2024,9,London Bloomsbury,,,
+2024,9,London Marylebone Road,,,
+2024,9,London North Kensington,,,
+2024,10,London Bexley,0.6736144736842106,positive,228.0
+2024,10,London Bloomsbury,,,
+2024,10,London Marylebone Road,,,
+2024,10,London North Kensington,,,
+2024,11,London Bexley,0.6169737704918032,positive,183.0
+2024,11,London Bloomsbury,,,
+2024,11,London Marylebone Road,,,
+2024,11,London North Kensington,,,
+2024,12,London Bexley,0.6559738317757009,positive,214.0
+2024,12,London Bloomsbury,,,
+2024,12,London Marylebone Road,,,
+2024,12,London North Kensington,,,
+2025,1,London Bexley,0.6330895104895106,positive,143.0
+2025,1,London Bloomsbury,,,
+2025,1,London Marylebone Road,,,
+2025,1,London North Kensington,,,
+2025,2,London Bexley,0.7473103896103896,positive,77.0
+2025,2,London Bloomsbury,,,
+2025,2,London Marylebone Road,,,
+2025,2,London North Kensington,,,
+2025,3,London Bexley,0.6837014925373134,positive,134.0
+2025,3,London Bloomsbury,,,
+2025,3,London Marylebone Road,,,
+2025,3,London North Kensington,,,
+2025,4,London Bexley,0.6880093167701863,positive,161.0
+2025,4,London Bloomsbury,,,
+2025,4,London Marylebone Road,,,
+2025,4,London North Kensington,,,
+2025,5,London Bexley,0.6486967105263158,positive,152.0
+2025,5,London Bloomsbury,,,
+2025,5,London Marylebone Road,,,
+2025,5,London North Kensington,,,
+2025,6,London Bexley,0.7498568181818182,positive,44.0
+2025,6,London Bloomsbury,,,
+2025,6,London Marylebone Road,,,
+2025,6,London North Kensington,,,
