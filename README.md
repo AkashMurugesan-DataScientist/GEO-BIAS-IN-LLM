@@ -50,9 +50,17 @@ Repository Contents
 
 Geo-Bias in LLM.pdf - Complete MSc Data Science dissertation.
 
-The supporting project files, including available datasets, analysis files, notebooks and visualisations, are currently being organised and will be added to this repository progressively.
+Geo_Bias_in_LLM.ipynb - Google Colab notebook containing the data preparation, analysis and visualisation work used for the dissertation.
 
-Some of the original project material is being retrieved from previous storage, so only files suitable for public sharing will be uploaded.
+ground_truth_monthly_with_aqi.csv - Monthly air quality and AQI data used in the analysis.
+
+perception_summary_monthly_complete.csv - Monthly public perception data used for comparison.
+
+llm_outputs_labeled.csv - Labelled responses from the Large Language Models used in the analysis.
+
+final_perception_proxy.csv - Combined dataset used for the final comparison between air quality, public perception and LLM responses.
+
+d1.png, d2.png, 28.png, d5.png, d6.png, d7.png - Selected visualisations from the dissertation analysis.
 
 Author
 
